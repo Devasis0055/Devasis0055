@@ -36,7 +36,7 @@
 📊 **গিটহাব স্ট্যাটাস (GitHub Stats)**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devasis0055&show_icons=true&theme=radial" alt="Devasis GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasis0055&theme=dark" alt="Devasis GitHub Streak" />
 </p>
 
 ---

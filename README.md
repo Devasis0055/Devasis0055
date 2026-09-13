@@ -1,18 +1,10 @@
 ## Hi there 👋
-# 👋 হ্যালো, আমি দেবাসিস!
-
-- 🔭 আমি বর্তমানে পড়াশোনা ও **সফটওয়্যার ডেভেলপমেন্ট** শিখছি।
-- 🌱 আমি এখন **Git, GitHub, HTML, CSS, JavaScript** শেখার ওপর মনোযোগ দিচ্ছি।
-- 🎯 আমার লক্ষ্য: একজন সফল **Full-Stack Software Developer** হওয়া।
-- 💬 আমার সাথে যোগাযোগ করতে বা প্রজেক্ট শেয়ার করতে পারেন!
-
----
-
-### 🛠️ প্রযুক্তি ও স্কিলসমূহ (Skills):
-- **Languages:** HTML, CSS, JavaScript (শিখছি)
-- **Tools:** Git, GitHub, VS Code
-
----
-
-⚡ *প্রতিদিন শেখা এবং কোড করাই আমার লক্ষ্য!*
-
+Hello, I'm Devasis!
+🔭 I'm currently studying BCA and learning Software Devolopment.
+🌱 I'm currently focusing on learning Git, GitHub, HTML,C,Java.
+🎯 My goal: To become a successful Full-Stack Software Developer.
+💬 Feel free to contact me or share projects!
+🛠️ Technologies and Skills:
+Languages: HTML, CSS, C (learning)
+Tools: Git, GitHub, VS Code,Coding C.
+⚡ My goal is to learn and code every day!

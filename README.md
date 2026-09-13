@@ -5,6 +5,14 @@ Hello, I'm **Devasis.**
 </p>
 
 ---
+### 👨‍💻 **আমার সম্পর্কে (About Me)**
+
+- 🎯 **লক্ষ্য:** একজন সফল **Full-Stack Software Developer** হওয়া।
+- 🌱 **বর্তমানে শিখছি:** **HTML5**, **CSS3**, **JavaScript**, এবং **Git/GitHub**।
+- 💼 **কাজ:** প্রতিদিন কোডিং প্র্যাকটিস করা এবং **GitHub**-এ নতুন প্রজেক্ট শেয়ার করা।
+- 💬 **যোগাযোগ:** যেকোনো পরামর্শের জন্য আমি সবসময় প্রস্তুত!
+
+---
 
 🔭 I'm currently studying **BCA** and **learning Software Devolopment**.
 

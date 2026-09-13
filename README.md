@@ -1,16 +1,18 @@
 ## Hi there 👋
+# 👋 হ্যালো, আমি দেবাসিস!
 
-<!--
-**Devasis0055/Devasis0055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 আমি বর্তমানে পড়াশোনা ও **সফটওয়্যার ডেভেলপমেন্ট** শিখছি।
+- 🌱 আমি এখন **Git, GitHub, HTML, CSS, JavaScript** শেখার ওপর মনোযোগ দিচ্ছি।
+- 🎯 আমার লক্ষ্য: একজন সফল **Full-Stack Software Developer** হওয়া।
+- 💬 আমার সাথে যোগাযোগ করতে বা প্রজেক্ট শেয়ার করতে পারেন!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ প্রযুক্তি ও স্কিলসমূহ (Skills):
+- **Languages:** HTML, CSS, JavaScript (শিখছি)
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+⚡ *প্রতিদিন শেখা এবং কোড করাই আমার লক্ষ্য!*
+

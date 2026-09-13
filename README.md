@@ -23,13 +23,7 @@ Hello, I'm **Devasis.**
 
 ---
 
-📊 **গিটহাব স্ট্যাটাস (GitHub Stats)**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devasis0055&show_icons=true&theme=radial" alt="Devasis GitHub Stats" />
-</p>
-
----
 📊 **গিটহাব স্ট্যাটাস (GitHub Stats)**
 
 <p align="center">

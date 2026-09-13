@@ -1,5 +1,10 @@
 ## Hi there 👋
 Hello, I'm **Devasis.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Aspiring+Software+Developer;Learning+Git+%26+GitHub;Building+Cool+Projects" alt="Typing SVG" />
+</p>
+
+---
 
 🔭 I'm currently studying **BCA** and **learning Software Devolopment**.
 

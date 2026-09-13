@@ -30,6 +30,13 @@ Hello, I'm **Devasis.**
 </p>
 
 ---
+📊 **গিটহাব স্ট্যাটাস (GitHub Stats)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devasis0055&show_icons=true&theme=radial" alt="Devasis GitHub Stats" />
+</p>
+
+---
 *⚡ "Consistency is the key to success in coding!"*
 
 🔭 I'm currently studying **BCA** and **learning Software Devolopment**.

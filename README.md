@@ -1,5 +1,5 @@
 ## Hi there 👋
-# ⚡ **হ্যালো, আমি দেবাসিস!** 
+# ⚡ **Hello I, Devasis!** 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Aspiring+Software+Developer;Learning+Git+%26+GitHub;Building+Cool+Projects" alt="Typing SVG" />
@@ -7,12 +7,12 @@
 
 ---
 
-### 👨‍💻 **আমার সম্পর্কে (About Me)**
+### 👨‍💻 ** (About Me)**
 
-- 🎯 **লক্ষ্য:** একজন সফল **Full-Stack Software Developer** হওয়া।
-- 🌱 **বর্তমানে শিখছি:** **HTML5**, **CSS3**, **JavaScript**, এবং **Git/GitHub**।
-- 💼 **কাজ:** প্রতিদিন কোডিং প্র্যাকটিস করা এবং **GitHub**-এ নতুন প্রজেক্ট শেয়ার করা।
-- 💬 **যোগাযোগ:** যেকোনো পরামর্শের জন্য আমি সবসময় প্রস্তুত!
+- 🎯 **Aim of Life:** একজন সফল **Full-Stack Software Developer** হওয়া।
+- 🌱 **Presently I learning:** **HTML5**, **CSS3**, **JavaScript**, এবং **Git/GitHub**।
+- 💼 **Work:** প্রতিদিন কোডিং প্র্যাকটিস করা এবং **GitHub**-এ নতুন প্রজেক্ট শেয়ার করা।
+- 💬 **Communicate:** যেকোনো পরামর্শের জন্য আমি সবসময় প্রস্তুত!
 
 ---
 

@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ **প্রযুক্তি ও স্কিলসমূহ (Tech Stack)**
+### 🛠️ **(Tech Stack)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-📊 **গিটহাব স্ট্যাটাস (GitHub Stats)**
+📊 **(GitHub Stats)**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasis0055&theme=dark" alt="Devasis GitHub Streak" />

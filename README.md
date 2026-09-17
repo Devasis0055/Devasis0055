@@ -9,7 +9,7 @@
 
 ### 👨‍💻 ** (About Me)**
 
-- 🎯 **Aim of Life:** একজন সফল **Full-Stack Software Developer** হওয়া।
+- 🎯 **Aim of Life:**Becoming a successful software developer and a programmer.
 - 🌱 **Presently I learning:** **HTML5**, **CSS3**, **JavaScript**, এবং **Git/GitHub**।
 - 💼 **Work:** Practice Coding Everyday and  create projects in **GitHub**.
 - 💬 **Communicate:** I am always open to any suggestions!

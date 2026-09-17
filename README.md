@@ -11,9 +11,8 @@
 
 - 🎯 **Aim of Life:** একজন সফল **Full-Stack Software Developer** হওয়া।
 - 🌱 **Presently I learning:** **HTML5**, **CSS3**, **JavaScript**, এবং **Git/GitHub**।
-- 💼 **Work:** প্রতিদিন কোডিং প্র্যাকটিস করা এবং **GitHub**-এ নতুন প্রজেক্ট শেয়ার করা।
-- 💬 **Communicate:** যেকোনো পরামর্শের জন্য আমি সবসময় প্রস্তুত!
-
+- 💼 **Work:** Practice Coding Everyday and  create projects in **GitHub**.
+- 💬 **Communicate:** I am always open to any suggestions!
 ---
 
 ### 🛠️ **(Tech Stack)**
@@ -36,8 +35,8 @@
 📊 **(GitHub Stats)**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasis0055&theme=dark" alt="Devasis GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasis0055&theme=light" alt="Devasis GitHub Streak" />
 </p>
 
 ---
-*⚡ "Consistency is the key to success in 
+*⚡ "Consistency is the key to success in .
